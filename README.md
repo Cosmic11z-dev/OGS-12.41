@@ -1,2 +1,16 @@
 # OGS-12.41
-proper proper...
+
+Features
+Version supports: 12.41
+
+To-do
+
+* Creative
+* LateGame
+* Bots
+* AIS
+
+
+This is using the base of eburim luv u plooshi <;
+
+yall are only getting the friggin dll i aint givin source gatekeeping fr fr 
